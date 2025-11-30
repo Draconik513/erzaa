@@ -111,7 +111,7 @@ const BirthdayCountdown = ({ isIOS }) => {
             📅  1 Desember 2025
           </h3>
           <p className="text-pink-600">
-            28 November 2025 new age, same favorite human ❤   🥹
+           Tanggal dimana lahirnya manusia favorit aku ♡
           </p>
         </div>
 
