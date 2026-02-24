@@ -21,7 +21,7 @@ const HomePage = ({ isIOS }) => {
         >
           <p className="text-lg text-pink-600 pt-4">Untuk yang tersayang</p>
           <h1 className="text-4xl font-extrabold bg-gradient-to-r from-pink-600 via-pink-400 to-purple-500 text-transparent bg-clip-text drop-shadow-md">
-            dr Armand Surya Nugraha 
+            ineu
           </h1>
         </motion.div>
 
@@ -64,23 +64,13 @@ const HomePage = ({ isIOS }) => {
 
           <div className="mt-8 p-4 bg-white/80 backdrop-blur-sm rounded-lg max-w-md mx-auto border border-pink-200">
             <p className="text-pink-800 italic">
-              "HAPPYYY BIRTHDAYYYYYYYYY Selamat ulangg tahunnn yaaaa semogaaa
-              cita cita yang kamu inginkan bisaa ter wujudd yaaa, panjang umurr
-              sehat selaluuuuu dan berbakti kepada orang tuaa, aamiinn
-              Semangattt teruss ya, jangan pernah putus asaa untuk mengejar
-              impian kamu, aku selaluu dukung dan support kamuu, Semoga di umur
-              inii datangg keberkahan penuh buatt kamuu, jangann lupaa bersyukur
-              yaaa. Terimakasiiii udaa mauu sabarrr samaa akuu, makasiiii jugaa
-              udaa sayangg ke akuu hwhehee, semogaaa tahun inii akan lebih baik
-              darimu sebelumnya kamuu lakukann, kamuu hebatt❤, pokoknyaa akuu
-              mintaa maaff samaa kamuu karnaaa sifat akuu yang bikin kamuu risih
-              atauu gimanaaa yaaa sekalii lagii maafff, intinya doa akuu bisa
-              menjadi orang yang sukses orang yang bisaa membanggakan orang tua.
-              ☆ And Jangan bosen yaa samaa akuu hehe, smogaa kitaa bisaa sama
-              samaa terusss yaa aamiinn aamiinn SELAMAT ULANGG TAHUNNNN SAYYANGG"
+              "untuk ade cantiknya mas.. di hari yang istimewa ini mas cuma mau
+              bilang, terimakasih ya udah mau terlahir di dunia ini, ketemu ade
+              adalah anugerah dari banyaknya pertemuan dalam hidup mas..
+              terimakasih sayang." 
             </p>
             <p className="mt-4 text-right text-pink-600 font-medium">
-              - Nurul Hidayana 
+              - Eezar
             </p>
           </div>
         </motion.div>
